@@ -7,9 +7,9 @@
 
 body {
       background-image: url(bg/1.jpg);
-      background-size: cover;
+      background-size: contain;
       background-repeat: no-repeat;
-      background-position: center top;
+      /* background-position: center top; */
       -webkit-transition: 3s;
       margin: 0;
       padding: 0;
