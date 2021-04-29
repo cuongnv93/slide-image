@@ -288,8 +288,8 @@ body {
     }
 	
 	.author {
-      float: right;
 	  height: 30px;
+    margin-left: 10px;
 	}
 	
 	.author button {
